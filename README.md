@@ -1,2 +1,1 @@
 # Homework
-# NYOMOD FASZ
