@@ -1,6 +1,3 @@
-from base64 import b16decode
-
-
 def betuk_gyak(mondat):
 
     betuk_dict = {}
